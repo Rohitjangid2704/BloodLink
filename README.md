@@ -1,5 +1,7 @@
 # About
-“Blood Point” is an android application to collect or donate blood easily. Users who have an android phone & active internet connection can contact and start searching for a donor easily through this application. The purpose of this application is to help people belonging to rural areas.
+
+- Developed “Blood Point”, an Android application using Firebase Database, Firebase Authentication, and Google Maps API to facilitate easy contact between blood donors and recipients, especially in rural areas.<br>
+- Implemented key features: Secure user login and sign-up, detailed donor information, blood group search, and hospital location mapping, developed in Android Studio IDE for Android version 4.0 or later.
 
 # Features
 Easy contact between blood donor and blood recipient through this android application.<br>
@@ -33,7 +35,7 @@ Open the application, create an account. That's it.
 N.B: It supports only in android version 4.0 or later.
 
 # Preview:
-<img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/spalsh.png" alt="Splash Screen" width="98" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank2.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank6.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank3.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank4.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank1.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank5.png" alt="Splash Screen" width="100" height="200" /> 
+<img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank2.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank6.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank3.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank4.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank1.png" alt="Splash Screen" width="100" height="200" /> <img src="https://raw.githubusercontent.com/imShakil/BloodBank/master/bloodbank5.png" alt="Splash Screen" width="100" height="200" /> 
 
 
 
